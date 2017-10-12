@@ -4,3 +4,14 @@
     1) Postcard
     2)
 4. CheckList - 
+
+5. Holiday Rush/High
+	1）发布行程
+	2）评价系统
+	3）能收藏
+	4）评论系统
+	5）定位
+6. Decision Maker
+	1) 多种形式，骰子
+7. 砸玻璃
+	1）休闲解压游戏
